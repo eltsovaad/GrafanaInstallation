@@ -17,4 +17,5 @@ Use `docker run -d -p 3000:3000 grafana/grafana` to run the container witn the l
 Open your web-browser and go to http://localhost:3000/. You are expecting to see a login page. Type `admin` in both login and password fields. Click "login" and change your password
 
 *Step 5. Adding data source*  
-Click "Add data source" button and choose "TestData DB" on the bottom of the page. Then click "Save and test"
+Click "Add data source" button and choose "TestData DB" on the bottom of the page. Then click "Save and test"  
+![foo bar](E:/users/eltsova_ad/Documents/grafana.jpg "title"   )
