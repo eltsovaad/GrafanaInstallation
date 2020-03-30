@@ -20,6 +20,7 @@ Open your web-browser and go to http://localhost:3000/. You are expecting to see
 Click "Add data source" button and choose "TestData DB" on the bottom of the page. Then click "Save and test"  
 
 *Step 6. Creating a test dashboard*  
-- Click on the Grafana logo ![](https://im0-tub-ru.yandex.net/i?id=55501ce1ec502d1e4e89a1313cfff305&n=24 "grafana logo") in the upper left corner to return to the home page. 
+- Click on the Grafana logo in the upper left corner to return to the home page.  
+![](https://github.com/eltsovaad/GrafanaInstallation/blob/master/GrafanaLogo.JPG "grafana logo") 
 - Click "New dashboard" button and "Add query" then. 
-- In the "Query" field choose "TestData DB" instead of "default" and click button "Save dashboard"
+- In the "Query" field choose "TestData DB" instead of "default" and click button "Save dashboard" ![](https://github.com/eltsovaad/GrafanaInstallation/blob/master/saveDashboard.JPG "grafana logo") 
