@@ -24,6 +24,7 @@ Click "Add data source" button and choose "TestData DB" on the bottom of the pag
 ![](https://github.com/eltsovaad/GrafanaInstallation/blob/master/GrafanaLogo.JPG "grafana logo") 
 - Click "New dashboard" button and "Add query" then. 
 - In the "Query" field choose "TestData DB" instead of "default" and click button "Save dashboard" ![](https://github.com/eltsovaad/GrafanaInstallation/blob/master/saveDashboard2.JPG "grafana logo")  
+- Enter your dashboard name and click "save"
   
 You are awesome! Thank you for folowing this guide  
   
